@@ -1,0 +1,11 @@
+{
+  "name": "my-vlessd",
+  "main": "worker.js",
+  "compatibility_date": "2024-09-23",
+  "kv_namespaces": [
+    {
+      "binding": "USERS",
+      "id": "469f016e665b4dbfb09213842eeb5162"
+    }
+  ]
+}
